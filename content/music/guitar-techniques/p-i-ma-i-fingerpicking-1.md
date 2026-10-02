@@ -31,7 +31,7 @@ P     i     m     i
 
 ### Sheet Music & Tabs
 
-- [P-i-ma-i Pattern 1 — Sheet Music & Tabs (PDF)](/pdf/guitar-techniques/p-i-ma-i-fingerpicking-1)
+- [P-i-ma-i Pattern 1 — Sheet Music & Tabs (PDF)](/pdf/guitar-techniques/p-i-ma-i-fingerpicking-1.pdf)
 
 ### Notes
 
