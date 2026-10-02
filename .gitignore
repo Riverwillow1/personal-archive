@@ -1,0 +1,17 @@
+# Hugo output
+public/
+c/
+resources/
+
+# Hugo lock file
+.hugo_build.lock
+
+# Extra themes not in use
+themes/hugo-noir
+
+# Personal files not for repo
+01. FOR POSTING/
+
+# OS files
+.DS_Store
+Thumbs.db
