@@ -41,6 +41,6 @@ notes = ''
 - [Percussion (PDF)](/pdf/naziv-instrumentala/percussion.pdf)
 -->
 
-### Notes
+### Note
 
-<!-- Ovdje će ići tvoje napomene o aranžmanu, snimanju, itd. -->
+<!-- *Rights belong to the original authors or to the traditional heritage.* -->

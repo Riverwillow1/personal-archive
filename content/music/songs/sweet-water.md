@@ -1,6 +1,6 @@
 ﻿+++
 title = "Sweet Water"
-tags = ["reclaiming", "chant", "starhawk"]
+tags = ["reclaiming", "chant"]
 +++
 
 **TIME SIGNATURE:** 4/4 | **TEMPO:** ≈95 BPM | **KEY:** Am (Dm) | **CAPO:** 5
@@ -33,6 +33,6 @@ tags = ["reclaiming", "chant", "starhawk"]
 - [Lyrics only (PDF)](/pdf/sweet-water/lyrics.pdf)
 -->
 
-### Notes
+### Note
 
-*Source: [campfirechants.org](https://campfirechants.org/). Rights belong to the original authors.*
+*Rights belong to the original authors or to the traditional heritage.*

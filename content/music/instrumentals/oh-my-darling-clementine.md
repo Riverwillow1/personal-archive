@@ -30,6 +30,6 @@ tags = ["traditional", "instrumental"]
 - [Bass (PDF)](/pdf/instrumentals/oh-my-darling-clementine/bass.pdf)
 - [Percussion (PDF)](/pdf/instrumentals/oh-my-darling-clementine/percussion.pdf)
 
-### Notes
+### Note
 
-This is a working arrangement. More notes to come.
+*Rights belong to the original authors or to the traditional heritage.*

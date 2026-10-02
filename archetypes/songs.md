@@ -26,6 +26,6 @@ notes = ''
 - [Lyrics only (PDF)](/pdf/sweet-water/lyrics.pdf)
 -->
 
-### Notes
+### Note
 
-<!-- Ovdje će ići tvoje napomene o aranžmanu, snimanju, itd. -->
+<!-- *Rights belong to the original authors or to the traditional heritage.* -->
