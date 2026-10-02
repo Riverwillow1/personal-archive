@@ -35,9 +35,4 @@ tags = ["reclaiming", "chant", "starhawk"]
 
 ### Notes
 
-<!-- Ovdje će ići tvoje napomene o aranžmanu, snimanju, itd. -->
-
-### Credits
-
-*Written by Starhawk. Arranged by Birchwhisper. Used with respect and gratitude.*  
-*Source: Campfire Chants: Songs for the Earth by Reclaiming (2016).*
+*Source: [campfirechants.org](https://campfirechants.org/). Rights belong to the original authors.*
