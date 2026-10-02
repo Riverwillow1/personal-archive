@@ -21,8 +21,5 @@ title = "Riverwillow — Personal Archive"
   image = "images/riverwillow-avatar.jpg"
   imageQuality = 96
   links = [
-    { email = "mailto:riverwillow@example.com" },
-    { soundcloud = "https://soundcloud.com/riverwillow" },
-    { youtube = "https://youtube.com/@riverwillow" },
-    { instagram = "https://instagram.com/riverwillow" }
+    { email = "mailto:ld.netprofile@gmail.com" }
   ]
