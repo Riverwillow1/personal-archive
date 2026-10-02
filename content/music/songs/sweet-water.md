@@ -1,6 +1,6 @@
 ﻿+++
 title = "Sweet Water"
-tags = ["reclaiming", "chant"]
+tags = ["reclaiming", "chant", "starhawk"]
 +++
 
 **TIME SIGNATURE:** 4/4 | **TEMPO:** ≈95 BPM | **KEY:** Am (Dm) | **CAPO:** 5
@@ -36,3 +36,8 @@ tags = ["reclaiming", "chant"]
 ### Notes
 
 <!-- Ovdje će ići tvoje napomene o aranžmanu, snimanju, itd. -->
+
+### Credits
+
+*Written by Starhawk. Arranged by Birchwhisper. Used with respect and gratitude.*  
+*Source: Campfire Chants: Songs for the Earth by Reclaiming (2016).*
