@@ -3,9 +3,9 @@ title = "Oh, My Darling Clementine"
 tags = ["traditional", "instrumental"]
 +++
 
-🎸 An instrumental arrangement of the traditional American folk ballad — arranged for guitars, clarinet, violin, bass, and percussion.
+🎸 An instrumental arrangement for guitars, clarinet, violin, bass, and percussion.
 
-**Traditional, arranged by Riverwillow. Public Domain.**
+**Traditional, arranged by Birchwhisper.**
 
 ### Audio
 
@@ -32,4 +32,4 @@ tags = ["traditional", "instrumental"]
 
 ### Note
 
-*Rights belong to the original authors or to the traditional heritage.*
+*Rights belong to the original authors or to the human heritage.*

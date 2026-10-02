@@ -38,4 +38,4 @@ P     i     m     i
 
 ### Notes
 
-<!-- Ovdje će ići tvoje napomene o gitarskoj tehnici i kratkom aranžmanu, itd. -->
+<!-- Ovdje će ići lične napomene o gitarskoj tehnici i kratkom aranžmanu, itd. -->

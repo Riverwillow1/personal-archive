@@ -28,4 +28,4 @@ notes = ''
 
 ### Note
 
-<!-- *Rights belong to the original authors or to the traditional heritage.* -->
+<!-- *Rights belong to the original authors or to the human heritage.* -->
