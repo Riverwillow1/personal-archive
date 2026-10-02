@@ -2,9 +2,9 @@
 title = "About me"
 +++
 
-<img src="/images/about-riverwillow.jpg" alt="Riverwillow playing guitar" style="max-width: 100%; border-radius: 8px; margin-bottom: 1.5rem;">
+<img src="/images/about-birchwhisper.jpg" alt="Birchwhisper playing guitar" style="max-width: 100%; border-radius: 8px; margin-bottom: 1.5rem;">
 
-🌿 I am **Riverwillow** — a recreational musician from Southeast Europe and a quiet explorer of sound, nature, and life's moments.
+🌿 I am **Birchwhisper** — a recreational musician from Southeast Europe and a quiet explorer of sound, nature, and life's moments.
 
 By profession, an economist. Currently, I work part-time. But my heart lives elsewhere — in music, in the green silence of nature, and in the slow search for a meaningful life.
 

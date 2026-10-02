@@ -2,7 +2,7 @@ disabled = false
 locale = "en"
 label = "English"
 weight = 1
-title = "Riverwillow — Personal Archive"
+title = "Birchwhisper — Personal Archive"
 
 [params]
   displayName = "EN"
@@ -15,10 +15,10 @@ title = "Riverwillow — Personal Archive"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
-  name = "Riverwillow"
+  name = "Birchwhisper"
   headline = "Recreational musician & quiet explorer"
   bio = "A quiet explorer of sound, nature and life's moments."
-  image = "images/riverwillow-avatar.jpg"
+  image = "images/homepage/birchwhisper-avatar.jpg"
   imageQuality = 96
   links = [
     { email = "mailto:ld.netprofile@gmail.com" }

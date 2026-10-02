@@ -46,7 +46,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [homepage]
   layout = "profile"
-  avatar = "/images/riverwillow-avatar.jpg"
+  avatar = "/images/homepage/birchwhisper-avatar.jpg"
   bio = "A quiet explorer of sound, nature and life's moments."
   showRecent = false
   showRecentItems = 5
@@ -133,20 +133,20 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 [[params.social]]
   name = "email"
   icon = "email"
-  url = "mailto:riverwillow@example.com" 
+  url = "mailto:a@example.com" 
 
 # Privremeni linkovi za vizuelni test
 [[params.social]]
   name = "soundcloud"
   icon = "soundcloud"
-  url = "https://soundcloud.com/riverwillow"
+  url = "https://soundcloud.com/a"
 
 [[params.social]]
   name = "youtube"
   icon = "youtube"
-  url = "https://youtube.com/@riverwillow"
+  url = "https://youtube.com/@a"
 
 [[params.social]]
   name = "instagram"
   icon = "instagram"
-  url = "https://instagram.com/riverwillow"
+  url = "https://instagram.com/a"
