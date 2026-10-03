@@ -29,4 +29,4 @@ P  i  m  i  P  i  m  i
 
 ### Musical Notation & Tabs
 
-- [P-i-ma-i Pattern 1 — Sheet Music & Tabs (PDF)](/pdf/guitar-techniques/p-i-ma-i-fingerpicking-2.pdf)
+- [P-i-ma-i Pattern 2 — Sheet Music & Tabs (PDF)](/pdf/guitar-techniques/p-i-ma-i-fingerpicking-2.pdf)
