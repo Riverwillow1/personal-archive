@@ -19,11 +19,10 @@ notes = ''
 [Download MP3](/audio/sweet-water.mp3)
 -->
 
-### Chord Chart & Lyrics
+### Chord Chart
 
-<!-- Ovdje će ići linkovi ka PDF-ovima, npr:
-- [Chord Chart (PDF)](/pdf/sweet-water/chord-chart.pdf)
-- [Lyrics only (PDF)](/pdf/sweet-water/lyrics.pdf)
+<!-- Ovdje će ići linkovi ka PDF-u, npr:
+- [Chord Chart (PDF)](/pdf/songs/sweet-water/chord-chart.pdf)
 -->
 
 ### Note

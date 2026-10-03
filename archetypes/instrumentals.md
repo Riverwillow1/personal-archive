@@ -9,10 +9,6 @@ pdf = ''
 notes = ''
 +++
 
-🎸 An instrumental arrangement of the traditional piece — arranged for guitars, clarinet, violin, bass, and percussion.
-
-**Traditional, arranged by Riverwillow. Public Domain.**
-
 ### Audio
 
 <!-- Ovdje će ići audio plejer kad budeš spreman, npr:
@@ -21,7 +17,7 @@ notes = ''
   Your browser does not support the audio element.
 </audio>
 
-[Download MP3](/audio/naziv-instrumentala.mp3)
+[Download MP3](/audio/instrumentals/naziv-instrumentala.mp3)
 -->
 
 ### Sheet Music & Tabs
@@ -29,16 +25,16 @@ notes = ''
 <!-- Ovdje će ići linkovi ka PDF-ovima, npr:
 
 **Full arrangement:**
-- [Full Arrangement — all instruments (PDF)](/pdf/naziv-instrumentala/full-arrangement.pdf)
+- [Full Arrangement — all instruments (PDF)](/pdf/instrumentals/naziv-instrumentala/full-arrangement.pdf)
 
 **Individual tracks:**
-- [Melody — Guitar (PDF)](/pdf/naziv-instrumentala/melody-guitar.pdf)
-- [Melody — Clarinet (PDF)](/pdf/naziv-instrumentala/melody-clarinet.pdf)
-- [Melody — Violin (PDF)](/pdf/naziv-instrumentala/melody-violin.pdf)
-- [Fingerpicking Guitar (PDF)](/pdf/naziv-instrumentala/fingerpicking-guitar.pdf)
-- [Strumming Guitar (PDF)](/pdf/naziv-instrumentala/strumming-guitar.pdf)
-- [Bass (PDF)](/pdf/naziv-instrumentala/bass.pdf)
-- [Percussion (PDF)](/pdf/naziv-instrumentala/percussion.pdf)
+- [Melody — Guitar (PDF)](/pdf/instrumentals/naziv-instrumentala/melody-guitar.pdf)
+- [Melody — Clarinet (PDF)](/pdf/instrumentals/naziv-instrumentala/melody-clarinet.pdf)
+- [Melody — Violin (PDF)](/pdf/instrumentals/naziv-instrumentala/melody-violin.pdf)
+- [Fingerpicking Guitar (PDF)](/pdf/instrumentals/naziv-instrumentala/fingerpicking-guitar.pdf)
+- [Strumming Guitar (PDF)](/pdf/instrumentals/naziv-instrumentala/strumming-guitar.pdf)
+- [Bass (PDF)](/pdf/instrumentals/naziv-instrumentala/bass.pdf)
+- [Percussion (PDF)](/pdf/instrumentals/naziv-instrumentala/percussion.pdf)
 -->
 
 ### Note

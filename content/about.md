@@ -2,21 +2,21 @@
 title = "About me"
 +++
 
-<img src="/images/about-birchwhisper.jpg" alt="Birchwhisper playing guitar" style="max-width: 100%; border-radius: 8px; margin-bottom: 1.5rem;">
+<img src="/images/about/about-birchwhisper.jpg" alt="About Birchwhisper" style="max-width: 100%; border-radius: 8px; margin-bottom: 1.5rem;">
 
-🌿 I am **Birchwhisper** — a recreational musician from Southeast Europe and a quiet explorer of sound, nature, and life's moments.
+🌿 I am **Birchwhisper** — a life explorer from Southeast Europe, drawn to sound, nature, and life's quiet moments.
 
-By profession, an economist. Currently, I work part-time. But my heart lives elsewhere — in music, in the green silence of nature, and in the slow search for a meaningful life.
+I am an economist by profession and currently work part-time. But my heart lives elsewhere — in recreational music, in the green silence of nature, and in the slow search for a meaningful life.
 
-### 🎸 Music
+### 🎸 Recreational music
 
-I am a one-man band: acoustic guitar, vocals, and occasionally kazoo and foot tambourine. I play fingerstyle, exploring fingerpicking patterns (arpeggios), bass-chord rhythms (polkas and waltzes), and down-up strumming.
+I play fingerstyle guitar, exploring fingerpicking patterns (arpeggios), bass-chord and waltz rhythms, and down-up strumming patterns.
 
-My musical journey gravitates towards **cyclical music** — sometimes called heart music or medicine music. Simple, repetitive songs and chants that invite presence and connection. I am drawn to English-language melodies with a universal approach.
+My musical journey moves across different genres — evergreens, traditional songs, children's music, and other forms.
 
-### 🌲 Beyond Music
+### 🌲 Beyond recreational music
 
-When I'm not playing, I enjoy hiking in nature, reading, writing, and simple cooking. I listen to and explore many genres of music.
+When I'm not playing, I enjoy walking, spending time in nature, reading, writing, and simple cooking. I listen to and explore many musical genres.
 
 ### ☮️💛 What I believe in
 

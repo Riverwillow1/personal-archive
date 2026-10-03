@@ -36,6 +36,6 @@ P     i     m     i
 - [Strumming Guitar — arrangement (PDF)](/pdf/naziv-gitarske-tehnike/guitar-technique.pdf)
 -->
 
-### Notes
+### Note
 
 <!-- Ovdje će ići lične napomene o gitarskoj tehnici i kratkom aranžmanu, itd. -->

@@ -3,8 +3,6 @@ title = "P-i-ma-i Fingerpicking Pattern 1 (Arpeggio)"
 tags = ["fingerpicking", "arpeggio"]
 +++
 
-A classic fingerpicking pattern 1 — the foundation of much of my playing.
-
 ### Pattern (4/4)
 
 ```
@@ -32,7 +30,3 @@ P     i     m     i
 ### Sheet Music & Tabs
 
 - [P-i-ma-i Pattern 1 — Sheet Music & Tabs (PDF)](/pdf/guitar-techniques/p-i-ma-i-fingerpicking-1.pdf)
-
-### Notes
-
-This pattern works beautifully for songs in moderate tempo. It creates a gentle, rolling texture that supports the voice without overpowering it.
