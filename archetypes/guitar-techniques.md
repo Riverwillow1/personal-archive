@@ -20,20 +20,20 @@ P     i     m     i
 
 <!-- Ovdje će ići audio plejer kad budeš spreman, npr:
 <audio controls style="width: 100%;">
-  <source src="/audio/naziv-gitarske-tehnike.mp3" type="audio/mpeg">
+  <source src="/audio/guitar-techniques/naziv-gitarske-tehnike.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
-[Download MP3](/audio/naziv-gitarske-tehnike.mp3)
+[Download MP3](/audio/guitar-techniques/naziv-gitarske-tehnike.mp3)
 -->
 
-### Sheet Music & Tabs
+### Musical Notation & Tabs
 
 <!-- Ovdje će ići linkovi ka PDF-ovima, npr:
 
 **Guitar technique arrangement:**
-- [Fingerpicking Guitar — arrangement (PDF)](/pdf/naziv-gitarske-tehnike/guitar-technique.pdf)
-- [Strumming Guitar — arrangement (PDF)](/pdf/naziv-gitarske-tehnike/guitar-technique.pdf)
+- [Fingerpicking Guitar — arrangement (PDF)](/pdf/guitar-techniques/naziv-gitarske-tehnike/guitar-technique.pdf)
+- [Strumming Guitar — arrangement (PDF)](/pdf/guitar-techniques/naziv-gitarske-tehnike/guitar-technique.pdf)
 -->
 
 ### Note

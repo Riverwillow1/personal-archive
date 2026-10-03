@@ -27,6 +27,6 @@ P  i  m  i  P  i  m  i
 
 [Download MP3](/audio/guitar-techniques/p-i-ma-i-fingerpicking-2.mp3)
 
-### Sheet Music & Tabs
+### Musical Notation & Tabs
 
 - [P-i-ma-i Pattern 1 — Sheet Music & Tabs (PDF)](/pdf/guitar-techniques/p-i-ma-i-fingerpicking-2.pdf)

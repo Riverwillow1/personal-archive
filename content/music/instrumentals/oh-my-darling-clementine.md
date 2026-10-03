@@ -16,7 +16,7 @@ tags = ["traditional", "instrumental"]
 
 [Download MP3](//audio/instrumentals/oh-my-darling-clementine.mp3)
 
-### Sheet Music & Tabs
+### Musical Notation & Tabs
 
 **Full arrangement:**
 - [Full Arrangement — all instruments (PDF)](/pdf/instrumentals/oh-my-darling-clementine/full-arrangement.pdf)
