@@ -3,10 +3,6 @@ title = "Oh, My Darling Clementine"
 tags = ["traditional", "instrumental"]
 +++
 
-🎸 An instrumental arrangement for guitars, clarinet, violin, bass, and percussion.
-
-**Traditional, arranged by Birchwhisper.**
-
 ### Audio
 
 <audio controls style="width: 100%;">
@@ -19,17 +15,18 @@ tags = ["traditional", "instrumental"]
 ### Musical Notation & Tabs
 
 **Full arrangement:**
-- [Full Arrangement — all instruments (PDF)](/pdf/instrumentals/oh-my-darling-clementine/full-arrangement.pdf)
+<!-- - [Full Arrangement — all instruments (PDF)](/pdf/instrumentals/oh-my-darling-clementine/full-arrangement.pdf) -->
 
 **Individual tracks:**
-- [Melody — Guitar (PDF)](/pdf/instrumentals/oh-my-darling-clementine/melody-guitar.pdf)
+<!-- - [Melody — Guitar (PDF)](/pdf/instrumentals/oh-my-darling-clementine/melody-guitar.pdf)
 - [Melody — Clarinet (PDF)](/pdf/instrumentals/oh-my-darling-clementine/melody-clarinet.pdf)
 - [Melody — Violin (PDF)](/pdf/instrumentals/oh-my-darling-clementine/melody-violin.pdf)
 - [Fingerpicking Guitar (PDF)](/pdf/instrumentals/oh-my-darling-clementine/fingerpicking-guitar.pdf)
 - [Strumming Guitar (PDF)](/pdf/instrumentals/oh-my-darling-clementine/strumming-guitar.pdf)
 - [Bass (PDF)](/pdf/instrumentals/oh-my-darling-clementine/bass.pdf)
-- [Percussion (PDF)](/pdf/instrumentals/oh-my-darling-clementine/percussion.pdf)
+- [Percussion (PDF)](/pdf/instrumentals/oh-my-darling-clementine/percussion.pdf) -->
 
 ### Note
 
+Send me an email for a PDF of Musical Notation & Tabs.
 *Rights belong to the original authors or to the human heritage.*
