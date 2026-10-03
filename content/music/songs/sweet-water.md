@@ -13,12 +13,6 @@ tags = ["reclaiming", "chant"]
 [Download MP3](/audio/songs/sweet-water.mp3)
 -->
 
-<!-- ### Chord Chart & Lyrics
-
-Ovdje će ići link ka PDF-u, npr:
-- [Chord Chart (PDF)](/pdf/songs/sweet-water/chord-chart.pdf)
--->
-
 ### Note
 
 Send me an email for a PDF of Chord Chart & Lyrics.
