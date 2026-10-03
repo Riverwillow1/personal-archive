@@ -12,13 +12,13 @@ tags = ["traditional", "instrumental"]
 
 [Download MP3](//audio/instrumentals/oh-my-darling-clementine.mp3)
 
-### Musical Notation & Tabs
+<!-- ### Musical Notation & Tabs
 
 **Full arrangement:**
-<!-- - [Full Arrangement — all instruments (PDF)](/pdf/instrumentals/oh-my-darling-clementine/full-arrangement.pdf) -->
+- [Full Arrangement — all instruments (PDF)](/pdf/instrumentals/oh-my-darling-clementine/full-arrangement.pdf)
 
 **Individual tracks:**
-<!-- - [Melody — Guitar (PDF)](/pdf/instrumentals/oh-my-darling-clementine/melody-guitar.pdf)
+- [Melody — Guitar (PDF)](/pdf/instrumentals/oh-my-darling-clementine/melody-guitar.pdf)
 - [Melody — Clarinet (PDF)](/pdf/instrumentals/oh-my-darling-clementine/melody-clarinet.pdf)
 - [Melody — Violin (PDF)](/pdf/instrumentals/oh-my-darling-clementine/melody-violin.pdf)
 - [Fingerpicking Guitar (PDF)](/pdf/instrumentals/oh-my-darling-clementine/fingerpicking-guitar.pdf)

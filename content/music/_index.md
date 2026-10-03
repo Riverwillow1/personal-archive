@@ -7,6 +7,9 @@ layout = "page"
 
 🎵 Songs and instrumental arrangements — a living collection of pieces I arrange, play, or sing.
 
-Each entry includes audio recordings, PDFs of chord charts or music notation, and personal notes.
-
 A personal and modest music archive.
+
+### Note
+
+Send me an email for a PDF of Chord Chart or Musical Notation & Tabs.
+*Music rights belong to the original authors or to the human heritage.*

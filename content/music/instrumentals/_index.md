@@ -4,6 +4,9 @@ layout = "page"
 weight = 20
 +++
 
-🎸 Instrumental arrangements of songs and compositions — with audio tracks, PDFs of musical notation and guitar tabs.
+🎸 Arrangements of instrumental compositions for guitar, bass, percussion, and other instruments.
 
-Evergreens, traditional, children's, classical, and other pieces, arranged for guitar, bass, percussion, and other instruments.
+### Note
+
+Send me an email for a PDF of Musical Notation & Tabs.
+*Music rights belong to the original authors or to the human heritage.*
