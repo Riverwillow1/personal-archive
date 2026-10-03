@@ -6,8 +6,8 @@ tags = ["reclaiming", "chant"]
 ### Audio
 
 <audio controls style="width: 100%;">
-  <source src="/audio/songs/sweet-water.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
+<source src="/audio/songs/sweet-water.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
 </audio>
 [Download MP3](/audio/songs/sweet-water.mp3)
 
